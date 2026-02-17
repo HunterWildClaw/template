@@ -1,0 +1,2 @@
+Holds all of the csv, txt, JSON, and image files for the repository
+

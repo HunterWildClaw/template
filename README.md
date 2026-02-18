@@ -21,3 +21,11 @@ How to install the exe (run file) for the project
 ## Contributors
 ***
 - List of all people who worked on the project (use github usernames)
+
+## License
+***
+Normally included here but not applicable to school projects
+
+## Contributions
+***
+List of instructions about HOW someone else could contribute to the project

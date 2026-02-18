@@ -19,4 +19,5 @@ Paragraph description of the project
 How to install the exe (run file) for the project
 
 ## Contributors
+***
 - List of all people who worked on the project (use github usernames)

@@ -11,7 +11,7 @@ Paragraph description of the project
 
 ## List of Key Features
 ***
-- List of all important things the prject does (includes a description of each feature)
+- List of all important things the project does (includes a description of each feature)
 - List often included emojis
 
 ## Installation Instructions
